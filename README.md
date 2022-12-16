@@ -1,5 +1,7 @@
 EJERCICIOS REALIZADOS EN PAIR PROGRAMING Por Silvia Gordón y Noemi Azorin
 
-NUMPY: X - Leccion1 - Introducción Numpy I, Leccion2 - Numpy II Indexacion, Leccion3 - Numpy III Operaciones estadísticas y matemáticas, Numpy IV - Conjuntos y distribuciones aleatorias
+NUMPY: X - Lección1 - Introducción Numpy I, Lección2 - Numpy II Indexacion, Lección3 - Numpy III Operaciones estadísticas y matemáticas, Numpy IV - Conjuntos y distribuciones aleatorias
 
-PANDAS: X - Leccion1 - Introducción Pandas I DataFrames y Series, Leccion2 - Carga y guardado de datos, Leccion3 - Métodos, Leccion4 - Filtrado de datos
+PANDAS: X - Lección1 - Introducción Pandas I DataFrames y Series, Lección2 - Carga y guardado de datos, Lección3 - Métodos, Lección4 - Filtrado de datos, Lección5 - Union de los datos, Lección6 - Groupby
+
+VISUALIZACIÓN: Lección1 - Visualización I, Lección2 - Visualización II
