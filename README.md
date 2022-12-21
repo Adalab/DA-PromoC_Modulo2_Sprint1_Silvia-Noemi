@@ -6,4 +6,4 @@ PANDAS: X - Lección1 - Introducción Pandas I DataFrames y Series, Lección2 - 
 
 VISUALIZACIÓN: Lección1 - Visualización I, Lección2 - Visualización II, Lección3 - Visualización III
 
-ESTADÍSTICA: Lección 1 - Estadística I, Lección2 - Estadística II
+ESTADÍSTICA: Lección1 - Estadística I, Lección2 - Estadística II, Lección3 - Estadística III, Lección4 - Repaso Estadística_Visualización
